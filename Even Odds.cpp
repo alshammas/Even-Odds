@@ -17,6 +17,7 @@ typedef long long ll;
 int main()
 {
     ll k,n; cin>>n>>k;
+    //Because of Time Limit we can not use this code from line 21 to 32 
     /*veci e,o;
     for(int i=1;i<=n;i++)
     {
